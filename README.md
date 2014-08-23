@@ -1,2 +1,0 @@
-cloudify-test-app
-=================
